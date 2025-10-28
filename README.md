@@ -12,6 +12,7 @@ A web-based system for managing printer usage in schools. This application provi
 - Notification system for request status updates (optional feature).
 - Role-based access control (teachers vs students/guests).
 - Simple and responsive UI for ease of use.
+- Home dashboard for all 3D printers with all details (for teachers) the imp details (for students)
 
 ## Tech Stack
 
